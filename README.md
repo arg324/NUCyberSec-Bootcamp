@@ -1,2 +1,3 @@
 # NUCyberSec-Bootcamp
-This my repository for the Northwestern Cybersecurity Bootcamp portfolio
+Repository for the Northwestern Cybersecurity Bootcamp portfolio
+2020-2021
