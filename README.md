@@ -5,4 +5,18 @@ In this bootcamp I reinforced my knowledge of Linux, Azure, and Networking; whil
 * The bootcamp material covered the following:
   * Information Security Governance
   * Information Security Awareness
-  * Information Security 
+  * Information Security Compliance
+  * Bash Scripting
+  * Windows Administration
+    * Active Directory
+    * Windows Policy Management
+  * Network Fundamentals
+    * Network Scanning Tools
+  * Cryptography
+  * Network Security
+  * Cyber Security
+    * Azure Cloud Environment Configuration:
+      * Network Security Groups
+      * Virtual Networks
+      * Ansible, YAML Playbooks
+  * ELK Stack
