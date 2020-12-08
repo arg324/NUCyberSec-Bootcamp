@@ -11,9 +11,9 @@ In this bootcamp I reinforced my knowledge of Linux, Azure, and Networking; whil
     * Active Directory
     * Windows Policy Management
   * Network Fundamentals
-    * Network Scanning Tools
   * Cryptography
   * Network Security
+    * * Network Scanning Tools
   * Cyber Security
     * Azure Cloud Environment Configuration:
       * Network Security Groups
