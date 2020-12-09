@@ -1,22 +1,16 @@
-# NUCyberSec-Bootcamp
-This my repository for the Northwestern Cybersecurity Bootcamp portfolio
+# Network Diagrams
 
-In this bootcamp I reinforced my knowledge of Linux, Azure, and Networking; while also learning new material and gaining exposure and experience during the course.
-* The bootcamp material covered the following:
-  * Information Security Governance
-  * Information Security Awareness
-  * Information Security Compliance
-  * Bash Scripting
-  * Windows Administration
-    * Active Directory
-    * Windows Policy Management
-  * Network Fundamentals
-  * Cryptography
-  * Network Security
-    * Network Scanning Tools
-  * Cyber Security
-    * Azure Cloud Environment Configuration:
-      * Network Security Groups
-      * Virtual Networks
-      * Ansible, YAML Playbooks
-  * ELK Stack
+The diagramas include highlight the work performed in the project to build an Azure Resource Group(Week 12 Diagram)
+  - The Project required to build 3 Ubuntu VMs with Ansible to orchestrate the setup of the Web Servers with Docker
+    * One Jump Box Machine
+    * Two Web Servers
+    * Load Balancer
+    * Virtual Network
+    * Network Security Group
+      - Inbound Security Rules
+      
+The NetworkDiagram-ELK expanded further into implementing an additional Virtual Network, with a server that will operate as the ELK Stack server.
+  * ELK server configuration using Ansible/Docker
+  * Network Security Group
+    - Inbound Security Rules
+  * The server enabled for log aggregation, and analysis.
