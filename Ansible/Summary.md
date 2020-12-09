@@ -1,22 +1,8 @@
-# NUCyberSec-Bootcamp
-This my repository for the Northwestern Cybersecurity Bootcamp portfolio
+# Playbooks
 
-In this bootcamp I reinforced my knowledge of Linux, Azure, and Networking; while also learning new material and gaining exposure and experience during the course.
-* The bootcamp material covered the following:
-  * Information Security Governance
-  * Information Security Awareness
-  * Information Security Compliance
-  * Bash Scripting
-  * Windows Administration
-    * Active Directory
-    * Windows Policy Management
-  * Network Fundamentals
-  * Cryptography
-  * Network Security
-    * Network Scanning Tools
-  * Cyber Security
-    * Azure Cloud Environment Configuration:
-      * Network Security Groups
-      * Virtual Networks
-      * Ansible, YAML Playbooks
-  * ELK Stack
+The YAML files in this repository are part of the project to build the Azure Resource Group with ELK. The files included are intended to do the following:
+- Install Apache
+- Install and configure ELK
+- Install File Beat
+- Install Metric Beat
+- Install a DVWA PHP instance to perform penetration testing
