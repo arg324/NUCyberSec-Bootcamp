@@ -1,22 +1,9 @@
-# NUCyberSec-Bootcamp
-This my repository for the Northwestern Cybersecurity Bootcamp portfolio
+# Linux Bash Scripting
+In the linux module we learned how to use the command line extensively to perform searches, archiving, and scripting. 
 
-In this bootcamp I reinforced my knowledge of Linux, Azure, and Networking; while also learning new material and gaining exposure and experience during the course.
-* The bootcamp material covered the following:
-  * Information Security Governance
-  * Information Security Awareness
-  * Information Security Compliance
-  * Bash Scripting
-  * Windows Administration
-    * Active Directory
-    * Windows Policy Management
-  * Network Fundamentals
-  * Cryptography
-  * Network Security
-    * Network Scanning Tools
-  * Cyber Security
-    * Azure Cloud Environment Configuration:
-      * Network Security Groups
-      * Virtual Networks
-      * Ansible, YAML Playbooks
-  * ELK Stack
+The Basic Scripts folder contains:
+  * Basic Bash Scripts
+  * Powershell Command Script
+
+The Casino Losses Investigation folder contains the scripts for a project where it needed to be determined from a list of users (dealers) at a casino was involved in 
+a scheme to defraud the casino.
