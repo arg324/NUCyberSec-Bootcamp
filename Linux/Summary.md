@@ -1,5 +1,5 @@
 # Linux Bash Scripting
-In the linux module we learned how to use the command line extensively to perform searches, archiving, and scripting. 
+In the Linux module we learned how to use the command line extensively to perform searches, archiving, and scripting. 
 
 The Basic Scripts folder contains:
   * Basic Bash Scripts
